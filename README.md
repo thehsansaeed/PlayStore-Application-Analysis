@@ -1,5 +1,5 @@
 # PlayStore-Application-Analysis
-Python-based PlayStore app analysis: Create dataframe, check schema, clean data, extract top reviews, identify top 10 installs, visualize category distribution.
+Python-based PlayStore app analysis: Created dataframe, check schema, clean data, extract top reviews, identify top 10 installs, visualize category distribution.
 
 
 ---
